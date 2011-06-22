@@ -1,3 +1,4 @@
+
 DESCRIPTION
 -----------
 Active Directory PHP Standalone application is a PHP based web application. This application can be deployed into any of the webserver with the necessary PHP support provided by the webserver. The core functionality of the application is to connect to Active Directory Federation Server (ADFS) configured and authenticate with Active Directory Account. On successful authentication the Application will display the Active Directory Claims received from the ADFS Server. This application uses WS-FEDERATION protocol to communicate with ADFS server.
